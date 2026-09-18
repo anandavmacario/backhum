@@ -41,7 +41,10 @@ let precoComDesconto = preco * desconto;
 console.log(precoComDesconto)
 
 //Exercício 9 - Converta idade em meses.//
-
+let meses = 12
+let idade = 16
+let anosEmMeses = meses * idade
+console.log(anosEmMeses)
 
 //Exercício 10 - Calcule o quadrado de um número.//
 let valor7 = 5;
