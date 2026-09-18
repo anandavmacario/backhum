@@ -16,14 +16,18 @@ let maiorDeIdade = idade >= 18;
 console.log(maiorDeIdade);
 
 //Exercício 4 - Compare dois números iguais.//
-const valor9 = 11;
-const valor10 = 11;
+let valor9 = 11;
+let valor10 = 11;
 console.log(valor9 === valor10); 
 console.log(valor9 <= valor10);   
 console.log(valor9 >= valor10);
 
 //Exercício 5 - Compare dois números diferentes.//
-
+let valor11 = 6;
+let valor12 = 12;
+console.log(valor11 === valor12);
+console.log(valor11 <= valo12);
+console.log(valor11 >= valor12);
 
 //Exercício 6 - Verifique se um número é par.//
 
